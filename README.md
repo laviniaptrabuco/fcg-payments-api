@@ -1,3 +1,5 @@
+> **FIAP Cloud Games (FCG)**: este repositório faz parte do projeto, com um repositório por componente. Guia central e lista de repositórios: [fcg-orchestration](https://github.com/laviniaptrabuco/fcg-orchestration#reposit%C3%B3rios-do-projeto). Entrega da Fase 2 deste componente: [tag `fase-2`](https://github.com/laviniaptrabuco/fcg-payments-api/tree/fase-2).
+
 # FCG Payments API
 
 Microsserviço responsável por processar (simular) pagamentos de compra de jogos da FIAP Cloud Games.
